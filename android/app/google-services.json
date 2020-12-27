@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "911599589189",
+    "project_id": "fir-16571",
+    "storage_bucket": "fir-16571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911599589189:android:cae56702e871e80cbf102c",
+        "android_client_info": {
+          "package_name": "br.com.damasceno.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "911599589189-su5icikceuk34psjgvo85e81f7tq8t3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoG_-6107wweBDJLIyWuSeG-vPehsGEjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "911599589189-su5icikceuk34psjgvo85e81f7tq8t3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
